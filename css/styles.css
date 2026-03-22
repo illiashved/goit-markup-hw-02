@@ -58,10 +58,6 @@ address {
 
 .page-top-navigation-list-link:hover,
 .page-top-navigation-list-link:focus {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
   color: #404bbf;
 }
 
@@ -80,9 +76,6 @@ address {
 
 .page-top-contacts-link:hover,
 .page-top-contacts-link:focus {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
   color: #404bbf;
 }
 
